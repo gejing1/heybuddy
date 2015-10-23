@@ -1,0 +1,120 @@
+
+.map-container {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.google-map {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
+
+nav.navbar.navbar-default.navbar-fixed-top {
+  background-color: #ffce00;
+  }
+
+.navbar-default .navbar-brand {
+  color:white;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color:white;
+  font-size:20px;
+  border-width:10px;
+  border-color: white;
+}
+
+.content-column {
+  padding-top: 66px;
+  padding-bottom: 15px;
+}
+
+
+.text-muted{
+  color:white;
+}
+
+.listleft {
+  border-style: solid;
+  border-width:12px;
+  border-color: #ffce00;
+  height:200px;
+  width:150px;
+  background: url(great-wall-china2.jpg);
+  background-size: cover;
+}
+
+.white-space {
+  width:5px;
+  }
+
+.listright {
+  border-style: solid;
+  border-width:12px;
+  border-color: #ffce00;
+  height:200px;
+  width:150px;
+  background: url(great-wall-china2.jpg);
+  background-size: cover;
+  }
+
+.horizonal-space {
+  height:10px;
+}
+
+.horizontal-space2 {
+  height:20px;
+}
+.content-column2 {
+  padding-top: 7px;
+  padding-bottom: 15px;
+}
+
+
+
+.name {
+  text-align:center;
+  color: white;
+  font-size: 20px;
+}
+
+.description {
+  padding-top: 40px;
+  text-align:bottom;
+  font-family: serif;
+  color: white;
+  font-size: 12px;
+}
+
+.city {
+  height:120px;
+  padding-top:40px;
+  padding-right:20px;
+
+    color:white;
+    font-size:40px;
+    text-align:right;
+    background: url(1.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.6;
+
+
+
+}
+
+.background {
+
+
+}
+
+
+.text {
+
+}
